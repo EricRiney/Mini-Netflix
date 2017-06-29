@@ -1,2 +1,2 @@
 # Mini-Netflix
-Mini Netflix app built the Facebook create-react-app scaffolding.
+Mini Netflix app built with the Facebook create-react-app scaffolding thing.
