@@ -12,8 +12,8 @@ const Root = () => {
     <div className="container">
       <Router history={browserHistory}>
         <Route path="/" component={Display}/>
-        <Route path="/upload" component={Upload} onEnter={requireAuth} />
-        <Route path="/callback" component={Callback} />
+        <Route path="/upload" component={Upload} onEnter={requireAuth}/>
+        <Route path="/callback" component={Callback}/>
       </Router>
     </div>
   )
